@@ -1,13 +1,13 @@
 {
   "name": "@mikesoes/say-hello-functions",
-  "version": "0.0.8",
-  "description": "Still a test package",
+  "version": "0.0.9",
+  "description": "Package that says hello to you",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://google.com",
+  "homepage": "https://github.com/MikeSoes1/say-hello-functions",
   "repository": {
-    "url": "https://github.com/MikeSoes1/"
+    "url": "https://github.com/MikeSoes1/say-hello-functions"
   },
   "scripts": {
     "build": "tsup"
