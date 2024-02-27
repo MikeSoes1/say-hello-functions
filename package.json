@@ -1,6 +1,6 @@
 {
   "name": "@mikesoes/say-hello-functions",
-  "version": "0.0.9",
+  "version": "0.0.17",
   "description": "Package that says hello to you",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -18,7 +18,7 @@
     "basic"
   ],
   "author": "MikeSoes",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
