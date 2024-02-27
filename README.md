@@ -17,7 +17,7 @@
 
 ## About
 
-<p align="center">Say-hello-functions is a module for Node.js that will say hello special to you!</p>
+Say-hello-functions is a module for Node.js that will say hello special to you!
 
 ## Installation
 
